@@ -35,6 +35,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alembakhytzhanova&show_icons=true&locale=en" alt="alembakhytzhanova" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alembakhytzhanova&show_icons=true&locale=en" alt="alembakhytzhanova"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alembakhytzhanova&" alt="alembakhytzhanova" /></p>
